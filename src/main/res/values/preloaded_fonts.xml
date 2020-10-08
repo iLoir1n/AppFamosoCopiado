@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/amarante</item>
+        <item>@font/bangers</item>
+        <item>@font/bowlby_one_sc</item>
+        <item>@font/days_one</item>
+        <item>@font/fredoka_one</item>
+        <item>@font/krona_one</item>
+        <item>@font/lalezar</item>
+        <item>@font/merienda_one</item>
+        <item>@font/nova_slim</item>
+        <item>@font/passion_one</item>
+        <item>@font/poller_one</item>
+        <item>@font/wendy_one</item>
+    </array>
+</resources>

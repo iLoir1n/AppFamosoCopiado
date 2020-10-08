@@ -1,0 +1,19 @@
+<resources>
+    <string name="Caixa">Constraint Layout</string>
+    <string name="entrar">ENTRAR</string>
+    <string name="button">Button</string>
+    <string name="alterar">ALTERAR</string>
+    <string name="_7089081_1">7089081-1</string>
+    <string name="jl">JL</string>
+    <string name="continuo">....</string>
+    <string name="jonas_lopes">JONAS LOPES</string>
+    <string name="inter">Inter</string>
+    <string name="banco">banco</string>
+    <string name="i_safe">i-safe</string>
+    <string name="i">i-</string>
+    <string name="gerar">Gerar</string>
+    <string name="safe">safe</string>
+    <string name="pag">pag</string>
+    <string name="pagar">Pagar</string>
+    <string name="receber">Receber</string>
+</resources>
